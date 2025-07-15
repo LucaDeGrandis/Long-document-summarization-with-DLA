@@ -1,0 +1,2 @@
+{"image_id": 257, "target_section": "DWS's Net Zero Strategy and Targets"}
+{"image_id": 452, "target_section": "Increased Awareness and Commitment to Net Zero"}
